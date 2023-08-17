@@ -1,11 +1,14 @@
-import React from 'react'
+
 
 const page = () => {
   return (
-    <div>
-      pokemon page
+    <div style={{color: "black" , width:"100px" ,"height":"20vh" , backgroundColor: "yellow"}}>
+        <h1>pokemon</h1>
     </div>
   )
 }
 
 export default page
+
+
+

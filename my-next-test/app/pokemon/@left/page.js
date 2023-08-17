@@ -1,7 +1,11 @@
 import React from 'react'
 
-export const page = () => {
+const Left = () => {
   return (
-    <div>left</div>
+    <div >
+      
+    </div>
   )
 }
+
+export default Left
